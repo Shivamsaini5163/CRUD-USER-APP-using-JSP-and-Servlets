@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:Annotations" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:import_class_into_jsp_file" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Hello Servlets" serverId="apache-tomcat-10.0.27 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:ExerciseSolution" serverId="apache-tomcat-10.0.27 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Session_in_JSP" serverId="Tomcat v10.0 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:S04L04 - Logout using cookie" serverId="apache-tomcat-10.0.27 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:CRUD_APP" serverId="Tomcat v10.0 Server at localhost"/>
+</modules>

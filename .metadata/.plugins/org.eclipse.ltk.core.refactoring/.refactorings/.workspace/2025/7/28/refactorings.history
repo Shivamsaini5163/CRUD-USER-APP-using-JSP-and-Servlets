@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;S04L05 - User logout using sessions&apos;" deleteContents="false" description="Delete resource &apos;S04L05 - User logout using sessions&apos;" element1="/S04L05 - User logout using sessions" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1751821687249"/>
+</session>
